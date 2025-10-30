@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# MOLLER-parity-prompt
-
-This contains the parameters and tools for producing the prompt results for the MOLLER integration mode analysis.
-
-=======
 # MOLLER-analysis-plots
 This repository contains macros and configuration files necessary for plotting data from MOLLER simulations
 
@@ -51,4 +45,3 @@ Below is an example output of a bpm plot when running the all_detector_plotter.C
 
 Below is an example output of a non-bpm plot when running the all_detector_plotter.C file
 <img width="500" height="300" alt="la all_det_plot" src="https://github.com/user-attachments/assets/0d6ca4e8-f499-4350-b0cf-151c3de24c94" />
->>>>>>> donald_repo/main
